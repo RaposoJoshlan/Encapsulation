@@ -1,0 +1,10 @@
+Class Bank  
+    -> getBalance()
+    -> setBalance
+        creditAmount = balance + newBalance
+        debitAmount = balance + withdrawalAmount
+    -> printStatement()
+
+Class Transaction
+    -> creditAccount(date, amount)
+    -> debitAccount(date, amount)

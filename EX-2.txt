@@ -1,0 +1,11 @@
+Class SecretDiary
+
+  -> setEntries()
+        addEntry()
+  -> getEntries()
+  -> addEntry()
+
+Class runDiary
+    -> lock()
+    -> unlock()
+
